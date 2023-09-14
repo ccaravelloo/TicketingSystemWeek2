@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketingSystemWeek2", "TicketingSystemWeek2\TicketingSystemWeek2.csproj", "{15B5F774-7E1B-4C9D-8AA4-9CF3F20DDF8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15B5F774-7E1B-4C9D-8AA4-9CF3F20DDF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B5F774-7E1B-4C9D-8AA4-9CF3F20DDF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B5F774-7E1B-4C9D-8AA4-9CF3F20DDF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B5F774-7E1B-4C9D-8AA4-9CF3F20DDF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D219724B-8752-4610-B776-14A302E686A0}
+	EndGlobalSection
+EndGlobal
